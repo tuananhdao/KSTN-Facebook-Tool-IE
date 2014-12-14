@@ -1,0 +1,10 @@
+E:\BAITAP_PROJECTS\cau_truc_du_lieu_va_giai_thuat\iOne Facebook Tool\iOne Facebook Tool\bin\Debug\iOne Facebook Tool.exe
+E:\BAITAP_PROJECTS\cau_truc_du_lieu_va_giai_thuat\iOne Facebook Tool\iOne Facebook Tool\bin\Debug\iOne Facebook Tool.pdb
+E:\BAITAP_PROJECTS\cau_truc_du_lieu_va_giai_thuat\iOne Facebook Tool\iOne Facebook Tool\obj\Debug\iOne Facebook Tool.csprojResolveAssemblyReference.cache
+E:\BAITAP_PROJECTS\cau_truc_du_lieu_va_giai_thuat\iOne Facebook Tool\iOne Facebook Tool\obj\Debug\iOne_Facebook_Tool.Properties.Resources.resources
+E:\BAITAP_PROJECTS\cau_truc_du_lieu_va_giai_thuat\iOne Facebook Tool\iOne Facebook Tool\obj\Debug\iOne Facebook Tool.csproj.GenerateResource.Cache
+E:\BAITAP_PROJECTS\cau_truc_du_lieu_va_giai_thuat\iOne Facebook Tool\iOne Facebook Tool\obj\Debug\iOne Facebook Tool.exe
+E:\BAITAP_PROJECTS\cau_truc_du_lieu_va_giai_thuat\iOne Facebook Tool\iOne Facebook Tool\obj\Debug\iOne Facebook Tool.pdb
+E:\BAITAP_PROJECTS\cau_truc_du_lieu_va_giai_thuat\iOne Facebook Tool\iOne Facebook Tool\obj\Debug\iOne_Facebook_Tool.MainForm.resources
+E:\BAITAP_PROJECTS\cau_truc_du_lieu_va_giai_thuat\iOne Facebook Tool\iOne Facebook Tool\obj\Debug\iOne_Facebook_Tool.WebBrowserForm.resources
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\iOne Facebook Tool\obj\Debug\iOne Facebook Tool.exe
